@@ -70,7 +70,7 @@
         <h4 style="color: #ffffff;">Atención al cliente</h5>
         <ul class="list-unstyled" >
           <li><a href="mailto:gamerstore@gmail.com">gamerstore@gmail.com</a></li>
-          <li><a href="#">+57 3215421548</a></li>
+          <li><a href="#">+57 3127105688</a></li>
           <li><a href="https://www.dian.gov.co/atencionciudadano/PQSRD/Paginas/PQSR.aspx">Preguntas frecuentes</a></li>
         </ul>
       </div>
