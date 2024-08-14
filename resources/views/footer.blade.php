@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-    {{-- <style>
+    <style>
           /* Estilo para los links del footer */
           footer a {
             color: #ffffff; /* Color del texto de los links */
@@ -16,7 +16,7 @@
           footer a:hover {
             color: #ccccff; /* Color del texto de los links al pasar el mouse */
           }
-    </style> --}}
+    </style>
 </head>
 <body>
 
